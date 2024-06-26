@@ -47,12 +47,12 @@
   ],
   "dependencies": {
     "@webpack-contrib/schema-utils": "^1.0.0-beta.0",
-    "loglevelnext": "^1.0.2",
-    "merge-options": "^1.0.1",
-    "strip-ansi": "^4.0.0",
-    "uuid": "^3.4.0",
+    "loglevelnext": "^6.0.0",
+    "merge-options": "^3.0.4",
+    "strip-ansi": "^7.1.0",
+    "uuid": "^10.0.0",
     "webpack-log": "^3.0.2",
-    "ws": "^4.0.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
