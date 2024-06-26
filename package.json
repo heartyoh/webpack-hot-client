@@ -1,6 +1,6 @@
 {
   "name": "@hatiolab/webpack-hot-client",
-  "version": "5.0.5",
+  "version": "5.0.8",
   "description": "A client for enabling, and interacting with, webpack Hot Module Replacement",
   "license": "MIT",
   "repository": "shellscape/webpack-hot-client",
