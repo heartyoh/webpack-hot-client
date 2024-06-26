@@ -1,6 +1,6 @@
 {
   "name": "@hatiolab/webpack-hot-client",
-  "version": "7.0.3",
+  "version": "7.0.5",
   "description": "A client for enabling, and interacting with, webpack Hot Module Replacement",
   "license": "MIT",
   "repository": "shellscape/webpack-hot-client",
@@ -47,7 +47,7 @@
   ],
   "dependencies": {
     "@webpack-contrib/schema-utils": "^1.0.0-beta.0",
-    "loglevelnext": "^6.0.0",
+    "loglevelnext": "^1.0.2",
     "merge-options": "^3.0.4",
     "strip-ansi": "^4.0.0",
     "uuid": "^10.0.0",

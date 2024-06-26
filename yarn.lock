@@ -5396,7 +5396,7 @@ log-update@^4.0.0:
     slice-ansi "^4.0.0"
     wrap-ansi "^6.2.0"
 
-loglevelnext@^1.0.1:
+loglevelnext@^1.0.1, loglevelnext@^1.0.2:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/loglevelnext/-/loglevelnext-1.0.5.tgz#36fc4f5996d6640f539ff203ba819641680d75a2"
   integrity sha512-V/73qkPuJmx4BcBF19xPBr+0ZRVBhc4POxvZTZdMeXpJ4NItXSJ/MSwuFT0kQJlCbXvdlZoQQ/418bS1y9Jh6A==
@@ -5408,11 +5408,6 @@ loglevelnext@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/loglevelnext/-/loglevelnext-3.0.1.tgz#e3e4659c4061c09264f6812c33586dc55a009a04"
   integrity sha512-JpjaJhIN1reaSb26SIxDGtE0uc67gPl19OMVHrr+Ggt6b/Vy60jmCtKgQBrygAH0bhRA2nkxgDvM+8QvR8r0YA==
-
-loglevelnext@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/loglevelnext/-/loglevelnext-6.0.0.tgz#0f76aa2408a6d7a97d0879b3fb904b65b9756bd6"
-  integrity sha512-FDl1AI2sJGjHHG3XKJd6sG3/6ncgiGCQ0YkW46nxe7SfqQq6hujd9CvFXIXtkGBUN83KPZ2KSOJK8q5P0bSSRQ==
 
 loud-rejection@^2.1.0:
   version "2.2.0"
@@ -6889,7 +6884,7 @@ strip-ansi@^6.0.0, strip-ansi@^6.0.1:
   dependencies:
     ansi-regex "^5.0.1"
 
-strip-ansi@^7.0.1, strip-ansi@^7.1.0:
+strip-ansi@^7.0.1:
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-7.1.0.tgz#d5b6568ca689d8561370b0707685d22434faff45"
   integrity sha512-iq6eVVI64nQQTRYq2KtEg2d2uU7LElhTJwsH4YzIHZshxlgZms/wIc4VoDQTlG/IvVIrBKG06CrZnp0qv7hkcQ==
